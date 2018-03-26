@@ -1,4 +1,5 @@
-##小程序密码输入的一个组件
+小程序密码输入的一个组件
+====
 
 
 ![Image](https://github.com/HoweZhang/wx/blob/master/components/psw/img/2.gif)
@@ -7,7 +8,9 @@
 
 <br>
 <br>
-##小程序wx-charts
+
+小程序wx-charts
+====
 
 
 ![Image](https://github.com/HoweZhang/wx/blob/master/img/3.gif)
