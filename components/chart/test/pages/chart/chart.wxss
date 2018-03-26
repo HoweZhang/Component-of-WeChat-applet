@@ -1,0 +1,38 @@
+/* pages/statistics/statistics.wxss */
+.statistics-box{
+  height: 440rpx;
+}
+.statistics-box-canvas{
+  width: 100%;
+  height: 440rpx;
+}
+.statistics-box-list-box{
+  width: 620rpx;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap:wrap;
+  padding-left: 100rpx;
+}
+.statistics-box-list{
+  width: 300rpx;
+  margin:0 0 45rpx 0;
+  font-size: 28rpx;
+}
+.statistics-name{
+  color: #999;
+  display: flex;
+  align-items: center;
+  }
+.statistics-num{color: #333;padding-left: 40rpx;}
+i{width: 20rpx;height: 20rpx;margin-right: 20rpx;display: block;}
+
+
+
+
+
+
+
+
+
+
