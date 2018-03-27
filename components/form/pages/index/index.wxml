@@ -1,0 +1,5 @@
+<view class="container">
+    <view bindtap="gotoPage" data-page="psw" class="mt20 list-item">psw</view>
+    <view bindtap="gotoPage" data-page="chart" class="mt20 list-item">chart</view>
+    <view bindtap="gotoPage" data-page="form" class="mt20 list-item">form</view>
+</view>

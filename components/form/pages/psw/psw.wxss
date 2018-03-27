@@ -1,0 +1,7 @@
+/* pages/psw/psw.wxss */
+.psw-input{color: #333;font-size: 100rpx;position: absolute;left: -100%;z-index: -999;}
+.psw-box{width: 350rpx;margin: 200rpx auto 80rpx;display: flex;justify-content: space-between;align-items: flex-end;}
+.psw-border{width: 50rpx;height: 80rpx;border-bottom: 6rpx solid #000;display: flex;align-items: center;justify-content: center;}
+.forget-psw{text-align: center;font-size: 28rpx;color: #999;}
+.psw-border-i{width: 20rpx;height: 20rpx;border-radius: 50%;background: #000;display: block;}
+

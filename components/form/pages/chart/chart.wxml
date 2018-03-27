@@ -1,0 +1,41 @@
+<view>
+  <view class='statistics-box'>
+    <canvas canvas-id="ringCanvas" class="statistics-box-canvas" bindtouchstart="touchHandler"></canvas>
+    <view class="statistics-box-list-box">
+
+      <view class="statistics-box-list">
+        <view class="statistics-name">
+          <i style="background:#fc6c49"></i>
+          实发工资
+        </view>
+        <view class="statistics-num">10,000.00</view>
+      </view>
+
+      <view class="statistics-box-list">
+        <view class="statistics-name">
+          <i style="background:#ffcb21"></i>
+          个人所得税
+        </view>
+        <view class="statistics-num">10,000.00</view>
+      </view>
+
+      <view class="statistics-box-list">
+        <view class="statistics-name">
+          <i style="background:#67c0ff"></i>
+          五险一金
+        </view>
+        <view class="statistics-num">10,000.00</view>
+      </view>
+
+      <view class="statistics-box-list">
+        <view class="statistics-name">
+          <i style="background:#ad74fe"></i>
+          其它
+        </view>
+        <view class="statistics-num">10,000.00</view>
+      </view>
+
+
+    </view>
+  </view>
+</view>

@@ -1,0 +1,26 @@
+<view class="page">
+    <view class="apply-tip" wx:if="{{popErrorMsg}}">{{popErrorMsg}}</view>
+    <form bindsubmit='open'>
+      <view class="apply-form" style="width:690rpx;">
+        <view class="form-list">
+          <view class="form-txt">手机号码</view>
+          <input type="text" placeholder='请输入手机号码' placeholder-class="placeholder"></input>
+        </view>
+
+        <view class="form-list">
+          <view class="form-txt">短信验证码</view>
+          <input type="text" placeholder='请输入验证码' placeholder-class="placeholder" class="form-phone-code"></input>
+          <view class="form-phone-codeBtn" bindtap='getPhoneCode' style="color:{{phoneCodeTxtColor}}">{{phoneCodeTxt}}</view>
+        </view>
+
+        <view class="form-list">
+          <view class="form-txt">密码</view>
+          <input type="{{pswInputType}}" placeholder='4位数字' placeholder-class="placeholder" maxlength="4"></input>
+          <image class="form-psd-img" src="{{pswImgUrl}}" bindtap='pswImg'></image>
+        </view>
+        <button class="form-list-btn" form-type="submit">设置密码</button>
+      </view>
+    </form>
+
+
+</view>

@@ -1,0 +1,13 @@
+.placeholder{color: #cbcbcb;font-size: 32rpx;}
+.apply-footer{font-size: 28rpx;color: #999;}
+.apply-footer-phone{color:#2687ff;display: inline-block;}
+.apply-tip{background: #de352d; color: #fff; height: 58rpx; line-height: 58rpx; font-size: 24rpx; text-align: center; position: absolute; left: 0; top: 0; width: 100%; z-index:3;}
+.apply-form{margin: 110rpx auto 0;}
+.form-list{display: flex;height: 100rpx;line-height: 100rpx; align-items:center;border-bottom: 1rpx solid #d2d2d2;font-size: 32rpx;}
+.form-txt{width: 200rpx;color: #333;}
+.form-list-btn{margin-top: 80rpx;height: 80rpx;background: #e54748;color: #fff;border-radius: 100rpx;line-height: 80rpx;font-size: 32rpx;}
+
+.form-phone-code{width: 300rpx;}
+.form-phone-codeBtn{width: 200rpx;text-align: center; height: 40rpx;line-height: 40rpx;font-size: 32rpx;border-left: 1rpx solid #d4d4d4;}
+.form-psd-img{width: 44rpx;height: 44rpx;margin-left: 20rpx;}
+
