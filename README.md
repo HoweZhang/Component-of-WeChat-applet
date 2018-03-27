@@ -16,3 +16,5 @@
 ![Image](https://github.com/HoweZhang/wx/blob/master/img/3.gif)
 
 [(demo 源码)](https://github.com/HoweZhang/wx/tree/master/components/pages/chart)
+
+test
