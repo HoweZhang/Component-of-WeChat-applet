@@ -16,12 +16,14 @@
 ![Image](https://github.com/HoweZhang/wx/blob/master/img/3.gif)
 
 [(demo 源码)](https://github.com/HoweZhang/wx/tree/master/components/pages/chart)
+
 <br>
 <br>
+
 小程序form表单
 ====
 
 
 ![Image](https://github.com/HoweZhang/wx/blob/master/components/psw/img/4.gif)
 
-[(demo 源码)](https://github.com/HoweZhang/wx/tree/master/components/form/test)
+[(demo 源码)](https://github.com/HoweZhang/wx/tree/master/components/form)
